@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">A Snooker Like Game</string>
+    <string name="resetBtn">Reset</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="redBallPlayer1Btn">red ball\n+1 point</string>
+    <string name="redBallPlayer2Btn">red ball\n+1 point</string>
+    <string name="greenBallPlayer1Btn">green ball\n+3 points</string>
+    <string name="greenBallPlayer2Btn">green ball\n+3 points</string>
+    <string name="blackBallPlayer1Btn">black ball\n+7 points</string>
+    <string name="blackBallPlayer2Btn">black ball\n+7 points</string>
+    <string name="foulPlayer1Btn"><![CDATA[>>>Foul<<<\n-3 points]]></string>
+    <string name="foulPlayer2Btn"><![CDATA[>>>Foul<<<\n-3 points]]></string>
+    <string name="zero">0</string>
+</resources>
